@@ -3,8 +3,8 @@ module github.com/grafana/xk6-sql-driver-ramsql
 go 1.22
 
 require (
+    github.com/godror/godror v0.45.2
 	github.com/grafana/xk6-sql v1.0.0
-	github.com/proullon/ramsql v0.1.4
 )
 
 require (
